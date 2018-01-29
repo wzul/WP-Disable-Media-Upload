@@ -1,0 +1,14 @@
+{
+    "name": "wzul/wp-disable-upload",
+    "description": "WordPress Plugin to disable media uploads",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wan Zulkarnain",
+            "email": "wanzulkarnain69@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
